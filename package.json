@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/NightlyD3V/Ethereum#readme",
   "dependencies": {
-    "hardhat": "^2.6.0"
+    "hardhat": "^2.6.1"
   }
 }
